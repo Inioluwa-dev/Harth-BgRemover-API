@@ -1,3 +1,5 @@
 # Ignore model weights
 models/
+
+dev.txt
 # ...other ignores...
